@@ -1,9 +1,5 @@
 # 🚀 Gen AI ka Safar — 4 Phases
 
-> **WhatsApp Style Notes** | Ekdum Simple Bhasha Mein Samjho!
-
----
-
 ## 🗺️ Poora Picture Ek Baar Mein
 
 ```
