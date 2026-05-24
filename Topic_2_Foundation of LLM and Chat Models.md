@@ -1,6 +1,6 @@
 # Topic-2: Foundation of LLM and Chat Models
 
-## Q. What is LLM??
+## Q. What is LLM???
 
 **LLM** stands for **Large Language Models**. Agar isko simple terms me samajhna ho, toh hum isse **3 words** me break kar sakte hain:
 
